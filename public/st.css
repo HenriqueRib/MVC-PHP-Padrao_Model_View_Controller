@@ -1,0 +1,29 @@
+
+/*@media (max-width: 576px) {
+	p {
+		color: white;
+	}
+	body {
+		background: black;
+	}
+		
+}*/
+body{
+	background: #100528  ;
+}
+footer{
+	padding: 20px;
+	color: white;  
+	font-size: 10px;
+}
+footer a {
+	margin: 5px;
+}
+.caixa{
+	padding: 50px 0;
+	border-bottom: 1px solid black;
+
+}
+h1{
+	font-size: 25px;
+}
