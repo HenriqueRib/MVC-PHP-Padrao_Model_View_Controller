@@ -1,6 +1,6 @@
 # MVC-PHP-Padrao_Model_View_Controller
 
-Para instalar o PHP sudo apt get install php7.2
+Para instalar o PHP <br>sudo apt get install php7.2
 sudo apt get install php7.2
 <br>
 <hr>
